@@ -11,9 +11,7 @@ import io.restassured.response.Response;
 public class MyAuthenticationstepdef {
 
 	Response resp;
-	
-		
-	@When("^user hit the get request with username and password$")
+			@When("^user hit the get request with username and password$")
 	public void user_hit_the_get_request_with_username_and_password(){
 		
 		//CODE FOR AUTHENTICATION IF NOT WORKING
