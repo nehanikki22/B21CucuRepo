@@ -1,6 +1,8 @@
 package com.Basic.MyGoogleRestAssured;
 
-import org.testng.Assert;
+import org.junit.Assert;
+
+//import org.testng.Assert;
 
 import cucumber.api.java.en.Then;
 import cucumber.api.java.en.When;
