@@ -19,6 +19,6 @@ import cucumber.api.junit.Cucumber;
 		)
 		
 //pUGINS ARE USETO GENERATE REPORT 
-public class HeaderValidationRunner {
+public class HeaderValidationRunnerTest {
 
 }
