@@ -1,12 +1,14 @@
 package com.Basic.hooksOfCucu;
 
 import cucumber.api.java.After;
+
 import cucumber.api.java.Before;
 import cucumber.api.java.en.Given;
 import io.restassured.RestAssured;
 import io.restassured.http.ContentType;
 import io.restassured.response.Response;
 import io.restassured.specification.RequestSpecification;
+
 
 public class TestHooks {
 	
